@@ -1,0 +1,9 @@
+.container-header{
+  border: 5px royalblue solid;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  color: black;
+  background-color: royalblue;
+  padding: 5px;
+}

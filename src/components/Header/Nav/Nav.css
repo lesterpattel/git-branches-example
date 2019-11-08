@@ -1,0 +1,10 @@
+.container-nav {
+  border: 5px solid orange;
+  color: black;
+  background-color: orange;
+}
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}
